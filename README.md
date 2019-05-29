@@ -1,6 +1,6 @@
 MTG Simulator was created with the intention of facilitating the play testing of MTG decks.
 
-MTG Simulator is written in Java and runs on Winddows.
+MTG Simulator is written in Java and runs on Windows.
 
 As of 5/30/2019, MTG Simulator is a work in progress with several known issues. 
 
